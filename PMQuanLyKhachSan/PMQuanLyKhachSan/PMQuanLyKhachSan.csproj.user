@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>E:\.NET\PMQuanLyKhachSan\PMQuanLyKhachSan\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AnhBia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDatDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDatPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHoaDonKhach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLeTan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLDatPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMainQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLLichPhanCong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDoiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSuaTTNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTaoTaiKhoanNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTTNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmWelcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmXemLichSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

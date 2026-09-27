@@ -1,0 +1,12 @@
+E:\App đây nhé\PMQuanLyKhachSan.pdb
+E:\App đây nhé\Images\icon_bed.png
+E:\App đây nhé\Images\icon_card.png
+E:\App đây nhé\Images\icon_service.png
+E:\App đây nhé\Images\icon_user.png
+E:\App đây nhé\D3DCompiler_47_cor3.dll
+E:\App đây nhé\PenImc_cor3.dll
+E:\App đây nhé\PresentationNative_cor3.dll
+E:\App đây nhé\vcruntime140_cor3.dll
+E:\App đây nhé\wpfgfx_cor3.dll
+E:\App đây nhé\Microsoft.Data.SqlClient.SNI.dll
+E:\App đây nhé\PMQuanLyKhachSan.exe
